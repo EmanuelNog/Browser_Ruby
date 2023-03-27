@@ -1,4 +1,4 @@
 # Browser_Ruby
-A Browser in Ruby
-Only implemented HTTP 1.0
-Only works in Command-Line
+A Browser in Ruby,
+only implemented HTTP 1.0,
+only works in Command-Line.
